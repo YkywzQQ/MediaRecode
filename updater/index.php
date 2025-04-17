@@ -1,7 +1,7 @@
 [app]
 version=2.5.4
-file=http://localhost/media-recode/api/updater/app.zip
+file=https://google.com
 
 [core]
 version=2.5.6
-file=http://localhost/media-recode/api/updater/core.zip
+file=https://raw.githubusercontent.com/YkywzQQ/MediaRecode/refs/heads/main/updater/core.zip
